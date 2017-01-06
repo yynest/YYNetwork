@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking
+END
+AFHTTPSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+END
+AFURLResponseSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFNetworking.h
+END
+AFSecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFSecurityPolicy.h
+END
+AFSecurityPolicy.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFSecurityPolicy.m
+END
+AFURLSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFURLSessionManager.h
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+END
+AFHTTPRequestOperationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+END
+AFNetworkReachabilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+END
+AFURLSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFURLSessionManager.m
+END
+AFURLConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+END
+AFHTTPRequestOperationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+END
+AFURLRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+END
+AFNetworkReachabilityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+END
+AFURLRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+END
+AFHTTPSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+END
+AFHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+END
+AFURLResponseSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6620/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ThirdCode/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+END

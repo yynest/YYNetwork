@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/8521/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking
+END
+QSBaseRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/7208/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking/QSBaseRequest.m
+END
+QSNetworkAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6618/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking/QSNetworkAgent.h
+END
+QSNetworkPrivate.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6618/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking/QSNetworkPrivate.m
+END
+QSNetworkAgent.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6841/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking/QSNetworkAgent.m
+END
+QSNetworkConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6618/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking/QSNetworkConfig.h
+END
+QSBaseRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/7208/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking/QSBaseRequest.h
+END
+QSNetworkConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/8521/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking/QSNetworkConfig.m
+END
+QSNetworkPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/6618/iOS/trunk/QianShanJYDoctor/QianShanJYDoctor/Classes/ViewController/Services/Networking/QSNetworkPrivate.h
+END
